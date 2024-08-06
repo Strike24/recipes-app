@@ -1,0 +1,16 @@
+.login-page-override {
+  /* fix it */
+  --login-bg: #faf3e4;
+  --login-inner-bg: white;
+  --login-color: #000000;
+  --login-input: #fff;
+  --login-input-bg: rgb(55 55 62);
+  --login-inner-before: linear-gradient(#1845ad, #23a2f6);
+  --login-inner-after: linear-gradient(to right, #ff512f, #f09819);
+  --login-btn: white;
+  --login-btn-bg: rgba(0, 0, 0, 0.89);
+  --login-btn-focus: transition;
+  --login-btn-hover: #abc4ff;
+  --login-btn-active: #f09819;
+  --login-footer: #ffffff99;
+}
